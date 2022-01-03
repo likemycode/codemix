@@ -19,7 +19,7 @@ We release the benchmark sarcasm dataset for Hinglish language to facilitate fur
 
 We create a dataset using TweetScraper built on top of scrapy to extract code-mix hindi-english tweets. We pass search tags like #sarcasm, #humor, #bollywood, #cricket, etc., combined with most commonly used code-mix Hindi words as query. All the tweets with hashtags like #sarcasm, #sarcastic, #irony, #humor etc. are treated as positive. Non sarcastic tweets are extracted using general hashtags like #politics, #food, #movie, etc. The balanced dataset comprises of 166K tweets. 
 
-Finally, We preprocess and clean the data by removing urls, hashtags, mentions, and punctuation in the data. The respective files can be found here as ```train.csv```, ```val.csv```, and ```test.csv```
+Finally, we preprocess and clean the data by removing urls, hashtags, mentions, and punctuation in the data. The respective files can be found here as ```train.csv```, ```val.csv```, and ```test.csv```
 
 ### Arguments:
 
