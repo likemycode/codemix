@@ -1,6 +1,7 @@
 This repo contains codes for the following paper:
-**Aditya Shah, Chandresh Kumar Maurya, How Effective is Incongruity? Implications for Code-mix Sarcasm Detection  - ICON ACL 2021**
 
+How Effective is Incongruity? Implications for Code-mix Sarcasm Detection. <br>
+Aditya Shah, Chandresh Kumar Maurya, <i>In Proceedings of the 18th International Conference on Natural Language Processing -  (ACL 2021)</i>.
 
 ### Requirements
   Python 3.6 or higher <br>
