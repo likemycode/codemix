@@ -3,6 +3,8 @@ This repo contains codes for the following paper:
 How Effective is Incongruity? Implications for Code-mix Sarcasm Detection. <br>
 Aditya Shah, Chandresh Kumar Maurya, <i>In Proceedings of the 18th International Conference on Natural Language Processing -  (ACL 2021)</i>.
 
+The presentation slides are available [here](https://github.com/likemycode/codemix/blob/main/Selfnet.pdf)
+
 ### Requirements
   Python 3.6 or higher <br>
   Pytorch >= 1.3.0 <br>
